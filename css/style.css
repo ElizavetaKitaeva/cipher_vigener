@@ -762,6 +762,9 @@ footer{
         .description-text::before{           
             width: 280px;       
         }
+        .info-footer {
+            margin-top: 10px;
+        }
         .end-site {
             display: none;
         }
