@@ -655,10 +655,7 @@ footer{
         display: none;
     }
     .end-site {
-        font-weight: normal;
-        font-size: 16px;
-        color: #FFFFFF;
-        margin: 0 ;
+        display: none;
     }
 } 
 
