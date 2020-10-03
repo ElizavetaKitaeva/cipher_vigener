@@ -762,4 +762,7 @@ footer{
         .description-text::before{           
             width: 280px;       
         }
+        .end-site {
+            display: none;
+        }
 } 
